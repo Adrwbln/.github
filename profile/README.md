@@ -1,1 +1,2 @@
-Note that I don't really use github that much!! New projects are gonna be on codeberg, https://codeberg.org/Adrwbln or gitlab, https://gitlab.com/Adrwbln.
+> [!Important]
+> I don't use GitHub for personal projects anymore, those are on **https://codeberg.org/adrwbln**, or *https://gitlab.com/adrwbln*
